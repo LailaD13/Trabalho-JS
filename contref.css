@@ -1,0 +1,50 @@
+h1{
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.img2{
+    display: block;
+    margin-left: 80%;
+    margin-top: 2%;
+}
+.img1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+   
+}
+.button1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    width: 125px;
+height: 40px;
+flex-shrink: 0;
+    border-radius: 20px;
+border: 0px solid #000;
+background: #084F8C;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25), 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.button2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    width: 276px;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 20px;
+border: 0px solid #000;
+background: #04BF8A;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25), 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+a{
+    text-decoration: none;
+    cursor: pointer;
+    color: white;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
